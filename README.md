@@ -29,4 +29,4 @@ Building tools that scratch my own itch — mostly things that should exist but 
 
 ---
 
-*Most of my interesting projects live on self-hosted infrastructure — home lab, VPS, Cloudflare Workers. Not everything ends up public.*
+*Most of my interesting projects live on self-hosted infrastructure — home lab, VPS, Cloudflare Workers. Not everything ends up public.* 
