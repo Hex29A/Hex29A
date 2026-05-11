@@ -1,6 +1,6 @@
 # Hey, I'm hex29a 👋
 
-🏙️ **Malmö, Sweden** | 🔧 **Integration Engineer @ Axis Communications** | 🤖 **Self-hosting enthusiast**
+🏙️ **Malmö, Sweden** | 🤖 **Self-hosting enthusiast**
 
 Building tools that scratch my own itch — mostly things that should exist but don't quite yet.
 
