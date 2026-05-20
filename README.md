@@ -23,6 +23,8 @@ Building tools that scratch my own itch — mostly things that should exist but 
 
 🔍 **[axiscan](https://github.com/Hex29A/axiscan)** — CLI tool to discover Axis network cameras on the local LAN. Written in Go.
 
+📷 **[vpx-mcp](https://github.com/Hex29A/vpx-mcp)** — MCP server for Axis network cameras via VAPIX. Snapshots, PTZ, I/O, overlays, privacy masks and more — queryable by AI assistants.
+
 📱 **[Offline-QR-Creator](https://github.com/Hex29A/Offline-QR-Creator)** — Browser-based QR code generator that works fully offline. No server, no tracking.
 
 🏷️ **[Printable-QR-Labels](https://github.com/Hex29A/Printable-QR-Labels)** — Web tool to create and print custom labels with QR codes. Useful for inventory, storage boxes, etc.
