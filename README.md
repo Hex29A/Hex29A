@@ -4,6 +4,7 @@
 
 Building tools that scratch my own itch — mostly things that should exist but don't quite yet.
 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -15,22 +16,22 @@ Building tools that scratch my own itch — mostly things that should exist but 
 
 ## Projects
 
+📷 **[vapx](https://github.com/Hex29A/vapx)** — Command-line tool for managing Axis network cameras via VAPIX.
+
+🔌 **[vpx-mcp](https://github.com/Hex29A/vpx-mcp)** — MCP server for Axis network cameras via VAPIX. Snapshots, PTZ, I/O, overlays, privacy masks and more — queryable by AI assistants.
+
 📝 **[hexnotes](https://github.com/Hex29A/hexnotes)** — Self-hosted note-taking with a REST API. Notes as plain `.md` files, no database, PWA + AI-agent friendly.
 
-🕷️ **[crawldown](https://github.com/Hex29A/crawldown)** — Fast website-to-Markdown crawler in Go. Recursively converts entire sites for LLM ingestion or offline archiving.
+🕷 **[crawldown](https://github.com/Hex29A/crawldown)** — Fast website-to-Markdown crawler in Go. Recursively converts entire sites for LLM ingestion or offline archiving.
 
 📊 **[HexQz](https://github.com/Hex29A/HexQz)** — Real-time quiz platform. Create quizzes, control the pace, project results live.
 
 🔍 **[axiscan](https://github.com/Hex29A/axiscan)** — CLI tool to discover Axis network cameras on the local LAN. Written in Go.
 
-🗖 **[vapx](https://github.com/Hex29A/vapx)** — Command-line tool for managing Axis network cameras via VAPIX.
-
-📷 **[vpx-mcp](https://github.com/Hex29A/vpx-mcp)** — MCP server for Axis network cameras via VAPIX. Snapshots, PTZ, I/O, overlays, privacy masks and more — queryable by AI assistants.
-
 📱 **[Offline-QR-Creator](https://github.com/Hex29A/Offline-QR-Creator)** — Browser-based QR code generator that works fully offline. No server, no tracking.
 
-🏷️ **[Printable-QR-Labels](https://github.com/Hex29A/Printable-QR-Labels)** — Web tool to create and print custom labels with QR codes. Useful for inventory, storage boxes, etc.
+🏷 **[Printable-QR-Labels](https://github.com/Hex29A/Printable-QR-Labels)** — Web tool to create and print custom labels with QR codes. Useful for inventory, storage boxes, etc.
 
 ---
 
-*Most of my interesting projects live on self-hosted infrastructure — home lab, VPS, Cloudflare Workers. Not everything ends up public.* 
+*Most of my interesting projects live on self-hosted infrastructure — home lab, VPS, Cloudflare Workers. Not everything ends up public.*
