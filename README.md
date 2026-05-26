@@ -23,7 +23,7 @@ Building tools that scratch my own itch — mostly things that should exist but 
 
 🔍 **[axiscan](https://github.com/Hex29A/axiscan)** — CLI tool to discover Axis network cameras on the local LAN. Written in Go.
 
-🗖   **[vapx](https://github.com/Hex29A/vapx)** - Command-line tool for managing Axis network cameras via VAPIX.
+🗖 **[vapx](https://github.com/Hex29A/vapx)** — Command-line tool for managing Axis network cameras via VAPIX.
 
 📷 **[vpx-mcp](https://github.com/Hex29A/vpx-mcp)** — MCP server for Axis network cameras via VAPIX. Snapshots, PTZ, I/O, overlays, privacy masks and more — queryable by AI assistants.
 
