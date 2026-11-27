@@ -10,7 +10,6 @@ Building tools that scratch my own itch — mostly things that should exist but 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
@@ -18,11 +17,13 @@ Building tools that scratch my own itch — mostly things that should exist but 
 
 Tools for managing and discovering Axis network cameras via VAPIX.
 
-🎥 **[vapx](https://github.com/Hex29A/vapx)** — Command-line tool for managing Axis cameras via VAPIX. Single static Rust binary, 40+ commands (firmware, PTZ, ACAP, overlays, security audit and more).
+🎥 **[vapx](https://github.com/Hex29A/vapx)** — Command-line tool for managing Axis cameras via VAPIX. Single static Rust binary, 40+ commands (firmware, PTZ, ACAP, overlays, security audit and more). Also an MCP server (`vapx mcp`), so AI assistants can query and operate your cameras.
+
+```sh
+brew install hex29a/tap/vapx
+```
 
 🔍 **[vapx-scan](https://github.com/Hex29A/vapx-scan)** — Discover Axis network devices on the LAN via SSDP, ONVIF, mDNS and subnet scan. Fast Rust scanner.
-
-🔌 **[vapx-mcp](https://github.com/Hex29A/vapx-mcp)** — MCP server for Axis network cameras via VAPIX. Snapshots, PTZ, I/O, overlays, privacy masks and more — queryable by AI assistants.
 
 ---
 
